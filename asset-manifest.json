@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/resol2/static/css/main.964fdded.css",
+    "main.js": "/resol2/static/js/main.a58c63a3.js",
+    "index.html": "/resol2/index.html",
+    "main.964fdded.css.map": "/resol2/static/css/main.964fdded.css.map",
+    "main.a58c63a3.js.map": "/resol2/static/js/main.a58c63a3.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.964fdded.css",
+    "static/js/main.a58c63a3.js"
+  ]
+}
